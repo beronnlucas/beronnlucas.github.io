@@ -1,4 +1,4 @@
-[README (1).md](https://github.com/user-attachments/files/25914135/README.1.md)# Hola, soy Lucas Berón 👋
+Hola, soy Lucas Berón 👋
 
 ### Data Scientist & Data Analyst | Buenos Aires, Argentina
 
